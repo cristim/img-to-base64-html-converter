@@ -25,7 +25,8 @@ Usage:
 - extract a HTML webpage in the current directory, you can also use the
   browser's "Save as" functionality.
 
+```
     npm install
     gulp
-
+```
 The end result inlined HTML file is generated in the output directory.
