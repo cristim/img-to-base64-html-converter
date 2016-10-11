@@ -1,0 +1,12 @@
+{
+  "name": "img-to-base64-html-converter",
+  "version": "1.0.0",
+  "description": "Converts external images from an HTML file into inlined base64 img tags",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-htmltidy": "^0.2.2",
+    "gulp-iconv": "^0.0.1",
+    "gulp-img64": "^0.0.6"
+  },
+  "author": "Cristian Magherusan-Stanciu <cristi.magherusan@gmail.com>"
+}
